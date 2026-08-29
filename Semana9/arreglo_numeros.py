@@ -16,4 +16,4 @@ for i in range(len(numeros)):
  
     # Mostrar cada número en pantalla
 
-    print("Elemento:", numeros[i])
+    print("Elemento:", numeros[i])# Semana 9
