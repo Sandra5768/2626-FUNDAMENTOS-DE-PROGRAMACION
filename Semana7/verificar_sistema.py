@@ -20,4 +20,4 @@ def main():
 
 
 # Llamada a la función principal del programa
-main()
+main()# Semana 7
