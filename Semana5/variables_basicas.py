@@ -16,4 +16,4 @@ estudiante_activo = True
 print("Nombre registrado:", nombre)
 print("Edad registrada:", edad)
 print("Estatura registrada:", estatura)
-print("¿Estudiante activo?:", estudiante_activo)
+print("¿Estudiante activo?:", estudiante_activo)# Semana 5
